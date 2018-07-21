@@ -1,0 +1,23 @@
+{
+  "name": "gae-nodejs-test",
+  "version": "1.0.0",
+  "description": "This app is GAE/Nodejs standard environment hello world sample.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qushot/gae-nodejs-test.git"
+  },
+  "author": "qushot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qushot/gae-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/qushot/gae-nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
